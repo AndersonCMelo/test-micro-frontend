@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 1rem;
+  margin: 0;
+}
+
+span {
+  background: blue;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+export const space = {
+  xxs: '0.25rem',
+  xs: '0.5rem',
+  s: '0.75rem',
+  md: '1rem',
+  l: '1.25rem',
+  xl: '1.5rem',
+  '2xl': '1.75rem',
+  '4xl': '2rem',
+  '5xl': '2.5rem',
+  '6xl': '3rem',
+  '7xl': '4rem',
+  '8xl': '5rem',
+  '9xl': '10rem',
+  '10xl': '16rem',
+  '11xl': '20rem',
+}
