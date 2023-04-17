@@ -1,0 +1,14 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+button {
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+
+  cursor: pointer;
+}
+
+button span {
+  background: transparent;
+}
